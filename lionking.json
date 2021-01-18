@@ -4,10 +4,10 @@
     "Cat", "Green Nature"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-2645249444311791",
-  "app_id": "ca-app-pub-2645249444311791~4831851906",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "pub_id": "pub-7976129023847877",
+  "app_id": "ca-app-pub-7976129023847877~9608626042",
+  "admob_banner_id": "ca-app-pub-7976129023847877/5669381031",
+  "admob_interstitial_id": "ca-app-pub-7976129023847877/5477809340",
   "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
 
   "admob_hpk_1": "",
@@ -16,15 +16,15 @@
   "admob_hpk_4": "",
   "admob_hpk_5": "",
 
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
+  "fan_banner_id": "214651780374486_214652663707731",
+  "fan_interstitial_id": "214651780374486_214652960374368",
+  "fan_native_id": "214651780374486_214652663707731",
 
-  "mopub_banner_id": "",
-  "mopub_interstitial_id": "",
-  "mopub_native_id": "",
+  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
+  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
+  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 3,
   "rewarded_photo_inverval": 4,
 
   "primary_ads": "ADMOB",
