@@ -1,0 +1,37 @@
+{
+  "username": "imam3543",
+  "album": [
+    "lion"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-7976129023847877",
+  "app_id": "ca-app-pub-7976129023847877~9608626042",
+  "admob_banner_id": "ca-app-pub-7976129023847877/5669381031",
+  "admob_interstitial_id": "ca-app-pub-7976129023847877/1730136021",
+  "admob_native_id": "ca-app-pub-7976129023847877/5477809340",
+  "admob_rewared_id": "ca-app-pub-7976129023847877/6790891013",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "214651780374486_214652663707731",
+  "fan_interstitial_id": "214651780374486_214652960374368",
+  "fan_native_id": "214651780374486_214652663707731",
+
+  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
+  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
+  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
+
+  "interstitial_inverval": 3,
+  "rewarded_photo_inverval": 3,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "MOPUB",
+    "FAN"
+  ]
+}
