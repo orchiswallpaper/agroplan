@@ -26,7 +26,7 @@
   "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 25,
 
   "primary_ads": "ADMOB",
   "list_ads": [
