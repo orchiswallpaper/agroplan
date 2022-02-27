@@ -4,12 +4,12 @@
     "DollWallpaper"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7976129023847877",
-  "app_id": "ca-app-pub-7976129023847877~9608626042",
-  "admob_banner_id": "ca-app-pub-7976129023847877/5669381031",
-  "admob_interstitial_id": "ca-app-pub-7976129023847877/1730136021",
-  "admob_native_id": "ca-app-pub-7976129023847877/5477809340",
-  "admob_rewared_id": "ca-app-pub-7976129023847877/6790891013",
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
+  "admob_rewared_id": "",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -28,7 +28,7 @@
   "interstitial_inverval": 3,
   "rewarded_photo_inverval": 3,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
     "ADMOB",
     "MOPUB",
